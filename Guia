@@ -1,0 +1,7 @@
+Criptografia 
+A ideia é fazer uma criptografia própria, tirando o sentido de uma frase.
+•	Pretendo usar o Python nesse projeto.
+•	A princípio quero fazer sozinho esse projeto (logico que vou buscar na internet algo para me inspirar).
+
+Talvez possamos alterar cada letra de uma frase, ou fazendo uma cifra de César só que um pouco mais complicada de se decifrar, pois não seria isso uma boa criptografia. 
+Nesse projeto quero mesmo usar a cifra de César, mas de um jeito que mesmo se digitássemos a mesma frase em dois momentos diferentes não pode sair o mesmo resultado, uma ideia que surgiu em minha cabeça foi pegar a hora atual do PC para de alguma forma mudar a Cifra. Apesar de usar a Cifra de César quero utilizar de outros meios de como criptografar uma frase.
