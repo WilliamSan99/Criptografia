@@ -1,22 +1,30 @@
 Criptografia 
-A ideia é fazer uma criptografia própria, tirando o sentido de uma frase.
+A ideia é fazer uma criptografia própria, tirando o sentido de um texto.
 •	Pretendo usar o Python nesse projeto.
 •	A princípio quero fazer sozinho esse projeto (logico que vou buscar na internet algo para me inspirar).
 
 Talvez possamos alterar cada letra de uma frase, ou fazendo uma cifra de César só que um pouco mais complicada 
-de se decifrar, pois não seria isso uma boa criptografia. 
+de se decifrar, pois não seria isso? uma boa criptografia. 
 
 Esta decidido que vamos usar a cifra de Cesar, mas de um jeito que mesmo se digitássemos a mesma frase em dois
-momentos diferentes não pode sair o mesmo resultado, uma ideia que surgiu em minha cabeça foi pegar a hora 
-atual do PC para de alguma forma mudar a Cifra. Apesar de usar a Cifra de César quero utilizar de outros meios
+momentos diferentes não pode imprimir o mesmo resultado, uma ideia que surgiu em minha cabeça foi pegar a hora 
+atual da maquina para de alguma forma mudar a Cifra. Apesar de usar a Cifra de César quero utilizar de outros meios
 de como criptografar uma frase.
 
 A cifra de Cesar usa ascii que e um valor para cada caractere, estava pensando em utilizar esses código para
 mostrar para transformar todos os caracteres em números, usar a cifra para mudar os valores dos caracteres, e
-a parti desse ponto converter esses valores para binário para não ficar tem "obvio". 
+a parti desse ponto converter esses valores para binário para não ficar "obvio". 
 exemplo: Vamos sopor que a letra "a" em ascii e representada pelo valor 10 então após usar a cifra ela 
 retornaria o valor 13 que em texto seria a letra "c", sim ainda esta obvio, mas e se o valor de "a" sendo 10
 convertesse para binário seria 1010, ainda sim e obvio, mas e se depois disso trocasse o 1 por 0 e 0 por 1
 sairia 0101 que seria 5 em decimal.
 Lembrando que eu ainda quero usar o tempo atual para influenciar na criptografia, oque eu pensei a principio 
-era pegar os segundos da hora atual e pular a ordem na cifra 
+era pegar os segundos da hora atual e pular a ordem na cifra.
+outra coisa e usar os numeros primos, ainda não sei como, mas os numeros primos e a chave de alguma forma!!!!
+
+
+Na aula de ontem aprendi sobre arquivo, e como usar em python, isso me deu uma ideia para implemetar a nossa 
+criptografia. podemos criptografar um documento e o devolver criptografado. ou podemos escrever um frase ou texto 
+e salvar o arquivo criptografado.
+
+por falta de tempo pretendo fazer este projeto na ferias.
