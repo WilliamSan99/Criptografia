@@ -1,7 +1,6 @@
 teste
 Criptografia 
 A ideia é fazer uma criptografia própria, tirando o sentido de um texto.
-•	Pretendo usar o Python nesse projeto.
 •	A princípio quero fazer sozinho esse projeto (logico que vou buscar na internet algo para me inspirar).
 
 Talvez possamos alterar cada letra de uma frase, ou fazendo uma cifra de César só que um pouco mais complicada 
@@ -23,9 +22,5 @@ Lembrando que eu ainda quero usar o tempo atual para influenciar na criptografia
 era pegar os segundos da hora atual e pular a ordem na cifra.
 outra coisa e usar os numeros primos, ainda não sei como, mas os numeros primos e a chave de alguma forma!!!!
 
-
-Na aula de ontem aprendi sobre arquivo, e como usar em python, isso me deu uma ideia para implemetar a nossa 
-criptografia. podemos criptografar um documento e o devolver criptografado. ou podemos escrever um frase ou texto 
-e salvar o arquivo criptografado.
 
 por falta de tempo pretendo fazer este projeto na ferias.
