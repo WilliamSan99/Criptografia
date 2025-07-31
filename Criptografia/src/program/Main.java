@@ -7,21 +7,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        /*CriptografiaService criptografia = new CriptografiaService();
-
-        String mensagemOriginal = "ABC hij";
-
-        ResultadoCriptografia resultado = criptografia.criptografarComChave(mensagemOriginal);
-
-        System.out.println("Texto criptografado: " + resultado.getTextoCriptografado());
-        System.out.println("Chave gerada: " + resultado.getChave());
-
-        String mensagemDescriptografada = criptografia.descriptografarComChave(
-                resultado.getTextoCriptografado(),
-                resultado.getChave()
-        );
-
-        System.out.println("Mensagem descriptografada: " + mensagemDescriptografada);*/
         CriptografiaService criptografia = new CriptografiaService();
         Scanner sc = new Scanner(System.in);
         System.out.println("-----Entre com uma da Opções-----");
